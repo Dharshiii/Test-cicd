@@ -10,7 +10,7 @@ function App() {
         <a
          
         >
-          Learning CI/CD on AWS for
+           CI/CD pipeline on  AWS 
         </a>
       </header>
     </div>
